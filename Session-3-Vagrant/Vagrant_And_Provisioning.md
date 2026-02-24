@@ -1,4 +1,3 @@
-She Codes Africa Academy
 
 DevOps Engineering Track
 

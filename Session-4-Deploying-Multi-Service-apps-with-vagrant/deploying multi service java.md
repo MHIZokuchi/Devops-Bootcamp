@@ -1,4 +1,3 @@
-**SHE CODES AFRICA ACADEMY**
 
 DevOps Bootcamp
 
@@ -1370,4 +1369,3 @@ following questions in a document:
 
 **End of Lesson 4**
 
-She Codes Africa Academy --- DevOps Bootcamp
